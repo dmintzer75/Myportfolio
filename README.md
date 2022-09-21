@@ -1,2 +1,3 @@
-# Myportfolio
-This is a personal portfolio example.
+# My Portfolio - An Example
+
+[Go to Portfolio](https://dmintzer75.github.io/Myportfolio/)
